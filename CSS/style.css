@@ -151,3 +151,9 @@ footer {
         font-size: 2rem;
     }
 }
+html {
+    scroll-behavior: smooth;
+}
+#hero {
+    background: linear-gradient(180deg, #020617, #0f172a);
+}
