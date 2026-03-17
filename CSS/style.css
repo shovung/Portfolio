@@ -157,3 +157,6 @@ html {
 #hero {
     background: linear-gradient(180deg, #020617, #0f172a);
 }
+section {
+    scroll-margin-top: 80px;
+}
